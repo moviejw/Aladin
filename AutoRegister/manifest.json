@@ -1,0 +1,38 @@
+{
+  "manifest_version": 3,
+  "name": "알라딘 자동 등록",
+  "version": "1.0",
+
+  "permissions": [
+    "contextMenus",
+    "tabs",
+    "scripting",
+    "activeTab"
+  ],
+
+  "host_permissions": [
+    "https://www.aladin.co.kr/*"
+  ],
+
+  "background": {
+    "service_worker": "background.js"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["https://www.aladin.co.kr/scm/wrecord.aspx*"],
+      "js": ["content_A.js"]
+    },
+    {
+      "matches": ["https://www.aladin.co.kr/shop/wproduct.aspx*"],
+      "js": ["content_B.js"]
+    }
+  ],
+
+  "web_accessible_resources": [
+    {
+      "resources": ["util.js"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}

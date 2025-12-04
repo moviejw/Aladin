@@ -16,7 +16,7 @@ chrome.runtime.onMessage.addListener((msg) => {
 
   // 3) 저자/출판사
   document.querySelector("#chkCustomAuthor")?.click();
-  document.querySelector("#custom_authorNm0").value = data.author || "";
+  document.querySelector("#custom_authorNm0").value = (data.author || "") + " |";
   document.querySelector("#custom_makingCompany").value = data.publisher || "";
 
   // 4) 상품 정보 입력

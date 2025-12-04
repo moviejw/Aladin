@@ -1,0 +1,77 @@
+/* 간단한 검색 UI 스타일 */
+#catSearchContainer {
+  position: fixed;
+  top: 12px;
+  left: 12px;
+  width: 360px;
+  max-width: calc(100vw - 24px);
+  background: rgba(255,255,255,0.95);
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.12);
+  z-index: 2147483647;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 8px;
+}
+
+#catSearchHeader {
+  display:flex;
+  gap:8px;
+  align-items:center;
+}
+
+#catSearchToggle {
+  width:28px;
+  height:28px;
+  border-radius:6px;
+  background:#1e88e5;
+  color:#fff;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  cursor:pointer;
+  font-weight:700;
+}
+
+#catSearchInput {
+  flex:1;
+  padding:6px 8px;
+  border:1px solid #ccc;
+  border-radius:6px;
+  font-size:14px;
+}
+
+#catSearchResults {
+  margin-top:8px;
+  max-height: 360px;
+  overflow:auto;
+  border-top:1px solid #f0f0f0;
+  padding-top:6px;
+}
+
+.cat-item {
+  padding:6px 8px;
+  cursor:pointer;
+  border-radius:6px;
+  font-size:13px;
+}
+
+.cat-item:hover {
+  background:#f5f7fb;
+}
+
+.cat-path {
+  color:#333;
+}
+
+.cat-sub {
+  color:#666;
+  font-size:12px;
+  margin-top:3px;
+}
+
+.small-muted {
+  font-size:12px;
+  color:#888;
+  margin-left:8px;
+}

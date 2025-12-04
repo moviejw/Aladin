@@ -1,0 +1,2316 @@
+[
+  {
+    "name": "건강/취미",
+    "categoryId": 55890,
+    "children": []
+  },
+  {
+    "name": "경제경영",
+    "categoryId": 170,
+    "children": []
+  },
+  {
+    "name": "고등학교참고서",
+    "categoryId": 76001,
+    "children": [
+      {
+        "name": "고등-문제집",
+        "children": [
+          {
+            "name": "과학탐구",
+            "children": []
+          },
+          {
+            "name": "국어영역",
+            "children": []
+          },
+          {
+            "name": "기타영역",
+            "children": []
+          },
+          {
+            "name": "사회탐구",
+            "children": []
+          },
+          {
+            "name": "수학영역",
+            "children": []
+          },
+          {
+            "name": "영어영역",
+            "children": []
+          },
+          {
+            "name": "한국사",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "고등영어전문교재",
+        "children": [
+          {
+            "name": "단어/숙어",
+            "children": []
+          },
+          {
+            "name": "독해/작문",
+            "children": []
+          },
+          {
+            "name": "말하기/듣기",
+            "children": []
+          },
+          {
+            "name": "문법",
+            "children": []
+          },
+          {
+            "name": "NEAT(국가영어능력평가)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "고등-자습서",
+        "children": [
+          {
+            "name": "과학",
+            "children": []
+          },
+          {
+            "name": "국어",
+            "children": []
+          },
+          {
+            "name": "기타",
+            "children": []
+          },
+          {
+            "name": "사회문화",
+            "children": []
+          },
+          {
+            "name": "수학",
+            "children": []
+          },
+          {
+            "name": "영어",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "논술/면접/수시",
+        "children": [
+          {
+            "name": "구술면접",
+            "children": []
+          },
+          {
+            "name": "논술정기간행물(고등)",
+            "children": []
+          },
+          {
+            "name": "대입논술",
+            "children": []
+          },
+          {
+            "name": "수시적성",
+            "children": [
+              {
+                "name": "_통합편",
+                "children": []
+              },
+              {
+                "name": "가천대",
+                "children": []
+              },
+              {
+                "name": "가톨릭대",
+                "children": []
+              },
+              {
+                "name": "강남대",
+                "children": []
+              },
+              {
+                "name": "강원대",
+                "children": []
+              },
+              {
+                "name": "건국대",
+                "children": []
+              },
+              {
+                "name": "경기대",
+                "children": []
+              },
+              {
+                "name": "경북대",
+                "children": []
+              },
+              {
+                "name": "경성대",
+                "children": []
+              },
+              {
+                "name": "경원대",
+                "children": []
+              },
+              {
+                "name": "경희대",
+                "children": []
+              },
+              {
+                "name": "고려대",
+                "children": []
+              },
+              {
+                "name": "광운대",
+                "children": []
+              },
+              {
+                "name": "금오공과대",
+                "children": []
+              },
+              {
+                "name": "단국대",
+                "children": []
+              },
+              {
+                "name": "대진대",
+                "children": []
+              },
+              {
+                "name": "덕성여대",
+                "children": []
+              },
+              {
+                "name": "동국대",
+                "children": []
+              },
+              {
+                "name": "동덕여대",
+                "children": []
+              },
+              {
+                "name": "명지대",
+                "children": []
+              },
+              {
+                "name": "부산대",
+                "children": []
+              },
+              {
+                "name": "삼육대",
+                "children": []
+              },
+              {
+                "name": "서강대",
+                "children": []
+              },
+              {
+                "name": "서경대",
+                "children": []
+              },
+              {
+                "name": "서울과학기술대",
+                "children": []
+              },
+              {
+                "name": "서울시립대",
+                "children": []
+              },
+              {
+                "name": "서울여대",
+                "children": []
+              },
+              {
+                "name": "성결대",
+                "children": []
+              },
+              {
+                "name": "성균관대",
+                "children": []
+              },
+              {
+                "name": "세종대",
+                "children": []
+              },
+              {
+                "name": "수원대",
+                "children": []
+              },
+              {
+                "name": "숙명여대",
+                "children": []
+              },
+              {
+                "name": "아주대",
+                "children": []
+              },
+              {
+                "name": "안양대",
+                "children": []
+              },
+              {
+                "name": "연세대",
+                "children": []
+              },
+              {
+                "name": "울산대",
+                "children": []
+              },
+              {
+                "name": "을지대",
+                "children": []
+              },
+              {
+                "name": "이화여대",
+                "children": []
+              },
+              {
+                "name": "인하대",
+                "children": []
+              },
+              {
+                "name": "중앙대",
+                "children": []
+              },
+              {
+                "name": "평택대",
+                "children": []
+              },
+              {
+                "name": "한국기술교육대",
+                "children": []
+              },
+              {
+                "name": "한국산업기술대",
+                "children": []
+              },
+              {
+                "name": "한국외국어대",
+                "children": []
+              },
+              {
+                "name": "한국항공대",
+                "children": []
+              },
+              {
+                "name": "한밭대",
+                "children": []
+              },
+              {
+                "name": "한성대",
+                "children": []
+              },
+              {
+                "name": "한신대",
+                "children": []
+              },
+              {
+                "name": "한양대",
+                "children": []
+              },
+              {
+                "name": "항공대",
+                "children": []
+              },
+              {
+                "name": "호서대",
+                "children": []
+              },
+              {
+                "name": "홍익대",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "입시자료집",
+            "children": []
+          },
+          {
+            "name": "입학사정관/자기소개서",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "수능대비",
+        "children": [
+          {
+            "name": "과학탐구",
+            "children": []
+          },
+          {
+            "name": "국어영역",
+            "children": []
+          },
+          {
+            "name": "기타영역",
+            "children": []
+          },
+          {
+            "name": "사회탐구",
+            "children": []
+          },
+          {
+            "name": "수학영역",
+            "children": []
+          },
+          {
+            "name": "영어영역",
+            "children": []
+          },
+          {
+            "name": "한국사",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "수능모의고사/기출",
+        "children": [
+          {
+            "name": "과학탐구",
+            "children": []
+          },
+          {
+            "name": "국어영역",
+            "children": []
+          },
+          {
+            "name": "기타영역",
+            "children": []
+          },
+          {
+            "name": "사회탐구",
+            "children": []
+          },
+          {
+            "name": "수학영역",
+            "children": []
+          },
+          {
+            "name": "영어영역",
+            "children": []
+          },
+          {
+            "name": "한국사",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "학습자료",
+        "children": [
+          {
+            "name": "공부자료",
+            "children": []
+          },
+          {
+            "name": "기타",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "EBS 고등",
+        "children": [
+          {
+            "name": "_고1",
+            "children": []
+          },
+          {
+            "name": "_고2",
+            "children": []
+          },
+          {
+            "name": "_고3",
+            "children": []
+          },
+          {
+            "name": "3주/4주특강",
+            "children": []
+          },
+          {
+            "name": "50일 수학",
+            "children": []
+          },
+          {
+            "name": "50일 통합과학",
+            "children": []
+          },
+          {
+            "name": "개념완성",
+            "children": []
+          },
+          {
+            "name": "국어의 원리",
+            "children": []
+          },
+          {
+            "name": "기출의 미래",
+            "children": []
+          },
+          {
+            "name": "기출의 미래 미니모의고사",
+            "children": []
+          },
+          {
+            "name": "나비효과",
+            "children": []
+          },
+          {
+            "name": "단기특강",
+            "children": []
+          },
+          {
+            "name": "만점마무리",
+            "children": []
+          },
+          {
+            "name": "매쓰 디렉터 수학",
+            "children": []
+          },
+          {
+            "name": "수능 빌드업",
+            "children": []
+          },
+          {
+            "name": "수능 직전보강 클리어",
+            "children": []
+          },
+          {
+            "name": "수능감(感)잡기",
+            "children": []
+          },
+          {
+            "name": "수능연계교재의 보카/어휘",
+            "children": []
+          },
+          {
+            "name": "수능완성",
+            "children": []
+          },
+          {
+            "name": "수능완성 사용설명서",
+            "children": []
+          },
+          {
+            "name": "수능특강",
+            "children": []
+          },
+          {
+            "name": "수능특강 사용설명서",
+            "children": []
+          },
+          {
+            "name": "수능특강 연계 기출",
+            "children": []
+          },
+          {
+            "name": "수능특강 Light",
+            "children": []
+          },
+          {
+            "name": "수능특강Q",
+            "children": []
+          },
+          {
+            "name": "수학의왕도",
+            "children": []
+          },
+          {
+            "name": "올림포스",
+            "children": []
+          },
+          {
+            "name": "올림포스 고급영어독해",
+            "children": []
+          },
+          {
+            "name": "올림포스 고난도",
+            "children": []
+          },
+          {
+            "name": "올림포스 유형편",
+            "children": []
+          },
+          {
+            "name": "올림포스 전국연합",
+            "children": []
+          },
+          {
+            "name": "파이널 실전모의고사",
+            "children": []
+          },
+          {
+            "name": "하루 1등급",
+            "children": []
+          },
+          {
+            "name": "English Power",
+            "children": []
+          },
+          {
+            "name": "i강의노트",
+            "children": [
+              {
+                "name": "2025_EBSi",
+                "children": []
+              },
+              {
+                "name": "2026_EBSi",
+                "children": []
+              },
+              {
+                "name": "2027_EBSi",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "고전",
+    "categoryId": 2105,
+    "children": []
+  },
+  {
+    "name": "과학",
+    "categoryId": 987,
+    "children": []
+  },
+  {
+    "name": "달력/기타",
+    "categoryId": 4395,
+    "children": []
+  },
+  {
+    "name": "대학교재/전문서적",
+    "categoryId": 8257,
+    "children": []
+  },
+  {
+    "name": "만화",
+    "categoryId": 2551,
+    "children": []
+  },
+  {
+    "name": "사회과학",
+    "categoryId": 798,
+    "children": []
+  },
+  {
+    "name": "소설/시/희곡",
+    "categoryId": 1,
+    "children": []
+  },
+  {
+    "name": "수험서/자격증",
+    "categoryId": 1383,
+    "children": []
+  },
+  {
+    "name": "어린이",
+    "categoryId": 1108,
+    "children": []
+  },
+  {
+    "name": "에세이",
+    "categoryId": 55889,
+    "children": []
+  },
+  {
+    "name": "여행",
+    "categoryId": 1196,
+    "children": []
+  },
+  {
+    "name": "역사",
+    "categoryId": 74,
+    "children": []
+  },
+  {
+    "name": "예술/대중문화",
+    "categoryId": 517,
+    "children": []
+  },
+  {
+    "name": "외국어",
+    "categoryId": 1322,
+    "children": []
+  },
+  {
+    "name": "요리/살림",
+    "categoryId": 1230,
+    "children": []
+  },
+  {
+    "name": "유아",
+    "categoryId": 13789,
+    "children": []
+  },
+  {
+    "name": "인문학",
+    "categoryId": 656,
+    "children": []
+  },
+  {
+    "name": "자기계발",
+    "categoryId": 336,
+    "children": []
+  },
+  {
+    "name": "잡지",
+    "categoryId": 2913,
+    "children": [
+      {
+        "name": "건강/의학",
+        "children": []
+      },
+      {
+        "name": "경제/경영",
+        "children": []
+      },
+      {
+        "name": "과학/기술",
+        "children": []
+      },
+      {
+        "name": "교양/문예/인문",
+        "children": [
+          {
+            "name": "교양",
+            "children": []
+          },
+          {
+            "name": "문예지",
+            "children": []
+          },
+          {
+            "name": "인문/사회",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "교육/취업",
+        "children": []
+      },
+      {
+        "name": "대중문화/예술",
+        "children": []
+      },
+      {
+        "name": "독립/인디잡지",
+        "children": []
+      },
+      {
+        "name": "리빙/가정/주택",
+        "children": []
+      },
+      {
+        "name": "만화/애니메이션",
+        "children": []
+      },
+      {
+        "name": "수험/어학교재",
+        "children": [
+          {
+            "name": "방송교재",
+            "children": []
+          },
+          {
+            "name": "수험교재",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "시사지",
+        "children": []
+      },
+      {
+        "name": "어린이/청소년",
+        "children": [
+          {
+            "name": "어린이",
+            "children": []
+          },
+          {
+            "name": "청소년",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "여성/남성/패션",
+        "children": [
+          {
+            "name": "결혼/웨딩지",
+            "children": []
+          },
+          {
+            "name": "남성지",
+            "children": []
+          },
+          {
+            "name": "여성지",
+            "children": []
+          },
+          {
+            "name": "패션지",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "여행/스포츠/취미",
+        "children": []
+      },
+      {
+        "name": "요리/제과제빵",
+        "children": []
+      },
+      {
+        "name": "육아",
+        "children": []
+      },
+      {
+        "name": "정기구독",
+        "children": []
+      },
+      {
+        "name": "종교",
+        "children": []
+      },
+      {
+        "name": "주간지",
+        "children": [
+          {
+            "name": "주간지 기타",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "컴퓨터/인터넷/게임",
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "전집/중고전집",
+    "categoryId": 17195,
+    "children": [
+      {
+        "name": "_0-3세",
+        "children": [
+          {
+            "name": "영어/학습",
+            "children": []
+          },
+          {
+            "name": "유아교양",
+            "children": []
+          },
+          {
+            "name": "인물/역사/사회",
+            "children": []
+          },
+          {
+            "name": "자연/과학/수학",
+            "children": []
+          },
+          {
+            "name": "전래/명작동화",
+            "children": []
+          },
+          {
+            "name": "창작동화",
+            "children": []
+          },
+          {
+            "name": "토이북/교구",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "_4-7세",
+        "children": [
+          {
+            "name": "문학/논술/고전",
+            "children": []
+          },
+          {
+            "name": "영어/학습",
+            "children": []
+          },
+          {
+            "name": "인물/역사/사회",
+            "children": []
+          },
+          {
+            "name": "자연/과학/수학",
+            "children": []
+          },
+          {
+            "name": "전래/명작동화",
+            "children": []
+          },
+          {
+            "name": "창작동화",
+            "children": []
+          },
+          {
+            "name": "토이북/교구",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "_단행본 전집",
+        "children": [
+          {
+            "name": "0-3세",
+            "children": []
+          },
+          {
+            "name": "4-7세",
+            "children": []
+          },
+          {
+            "name": "기획세트",
+            "children": []
+          },
+          {
+            "name": "청소년/일반",
+            "children": []
+          },
+          {
+            "name": "초등(1-3)저학년",
+            "children": []
+          },
+          {
+            "name": "초등(4-6)고학년",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "_초등(1-3)저학년",
+        "children": [
+          {
+            "name": "문학/논술/고전",
+            "children": []
+          },
+          {
+            "name": "영어/학습",
+            "children": []
+          },
+          {
+            "name": "인물/역사/사회",
+            "children": []
+          },
+          {
+            "name": "자연/과학/수학",
+            "children": []
+          },
+          {
+            "name": "전래/명작동화",
+            "children": []
+          },
+          {
+            "name": "창작동화",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "_초등(4-6)고학년",
+        "children": [
+          {
+            "name": "문학/논술/고전",
+            "children": []
+          },
+          {
+            "name": "영어/학습",
+            "children": []
+          },
+          {
+            "name": "인물/역사/사회",
+            "children": []
+          },
+          {
+            "name": "자연/과학/수학",
+            "children": []
+          },
+          {
+            "name": "전래/명작동화",
+            "children": []
+          },
+          {
+            "name": "창작동화",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "_출판사별보기",
+        "children": [
+          {
+            "name": "가나출판사(전집)",
+            "children": []
+          },
+          {
+            "name": "계몽사",
+            "children": []
+          },
+          {
+            "name": "교연아카데미",
+            "children": []
+          },
+          {
+            "name": "그린코리아",
+            "children": []
+          },
+          {
+            "name": "글렌도만",
+            "children": []
+          },
+          {
+            "name": "글송이",
+            "children": []
+          },
+          {
+            "name": "글채움",
+            "children": []
+          },
+          {
+            "name": "금성출판사",
+            "children": []
+          },
+          {
+            "name": "꼬마배꼽",
+            "children": []
+          },
+          {
+            "name": "꿈꾸는아이들",
+            "children": []
+          },
+          {
+            "name": "꿈의학교",
+            "children": []
+          },
+          {
+            "name": "뉴턴코리아",
+            "children": []
+          },
+          {
+            "name": "다산교육(전집)",
+            "children": []
+          },
+          {
+            "name": "대교출판사",
+            "children": []
+          },
+          {
+            "name": "대산출판사",
+            "children": []
+          },
+          {
+            "name": "더큰",
+            "children": []
+          },
+          {
+            "name": "도서출판현현각양지",
+            "children": []
+          },
+          {
+            "name": "동강출판사",
+            "children": []
+          },
+          {
+            "name": "동그라미",
+            "children": []
+          },
+          {
+            "name": "동사모",
+            "children": []
+          },
+          {
+            "name": "두산동아",
+            "children": []
+          },
+          {
+            "name": "딕브루너코리아",
+            "children": []
+          },
+          {
+            "name": "리듬북",
+            "children": []
+          },
+          {
+            "name": "리틀랜드",
+            "children": []
+          },
+          {
+            "name": "리틀코리아",
+            "children": []
+          },
+          {
+            "name": "몬테소리CM",
+            "children": []
+          },
+          {
+            "name": "바라북스",
+            "children": []
+          },
+          {
+            "name": "바른나무들",
+            "children": []
+          },
+          {
+            "name": "바이런",
+            "children": []
+          },
+          {
+            "name": "베이비아카데미",
+            "children": []
+          },
+          {
+            "name": "베틀북(전집)",
+            "children": []
+          },
+          {
+            "name": "보리",
+            "children": []
+          },
+          {
+            "name": "보림",
+            "children": []
+          },
+          {
+            "name": "북샘",
+            "children": []
+          },
+          {
+            "name": "브리태니커",
+            "children": []
+          },
+          {
+            "name": "비엔존",
+            "children": []
+          },
+          {
+            "name": "뿌리교육",
+            "children": []
+          },
+          {
+            "name": "삼성교육",
+            "children": []
+          },
+          {
+            "name": "새로본",
+            "children": []
+          },
+          {
+            "name": "세상모든책(전집)",
+            "children": []
+          },
+          {
+            "name": "세종출판사",
+            "children": []
+          },
+          {
+            "name": "아동문학",
+            "children": []
+          },
+          {
+            "name": "아이교육",
+            "children": []
+          },
+          {
+            "name": "아이북스",
+            "children": []
+          },
+          {
+            "name": "아이세움",
+            "children": []
+          },
+          {
+            "name": "아이즐북스",
+            "children": []
+          },
+          {
+            "name": "아이캐슬",
+            "children": []
+          },
+          {
+            "name": "어린이아현",
+            "children": []
+          },
+          {
+            "name": "에이플러스",
+            "children": []
+          },
+          {
+            "name": "영재아카데미",
+            "children": []
+          },
+          {
+            "name": "오로라북스",
+            "children": []
+          },
+          {
+            "name": "원더랜드",
+            "children": []
+          },
+          {
+            "name": "월드북스",
+            "children": []
+          },
+          {
+            "name": "유한미디어",
+            "children": []
+          },
+          {
+            "name": "이랑교육",
+            "children": []
+          },
+          {
+            "name": "제닉스",
+            "children": []
+          },
+          {
+            "name": "제로투세븐",
+            "children": []
+          },
+          {
+            "name": "좋은열매",
+            "children": []
+          },
+          {
+            "name": "중앙출판사(전집)",
+            "children": []
+          },
+          {
+            "name": "직지",
+            "children": []
+          },
+          {
+            "name": "차일드캠프",
+            "children": []
+          },
+          {
+            "name": "키즈덤하우스",
+            "children": []
+          },
+          {
+            "name": "키즈랜드",
+            "children": []
+          },
+          {
+            "name": "키즈캐슬",
+            "children": []
+          },
+          {
+            "name": "킨더랜드",
+            "children": []
+          },
+          {
+            "name": "타임라이프북스",
+            "children": []
+          },
+          {
+            "name": "파브르(전집)",
+            "children": []
+          },
+          {
+            "name": "파크랜드",
+            "children": []
+          },
+          {
+            "name": "푸른물고기",
+            "children": []
+          },
+          {
+            "name": "학원사(전집)",
+            "children": []
+          },
+          {
+            "name": "한국가우스",
+            "children": []
+          },
+          {
+            "name": "한국뉴베리",
+            "children": []
+          },
+          {
+            "name": "한국뉴스타인",
+            "children": []
+          },
+          {
+            "name": "한국듀이",
+            "children": []
+          },
+          {
+            "name": "한국삐아제/한국퍼킨스",
+            "children": []
+          },
+          {
+            "name": "한국섬머힐",
+            "children": []
+          },
+          {
+            "name": "한국셰익스피어",
+            "children": []
+          },
+          {
+            "name": "한국아동교육미디어",
+            "children": []
+          },
+          {
+            "name": "한국이튼",
+            "children": []
+          },
+          {
+            "name": "한국파스퇴르",
+            "children": []
+          },
+          {
+            "name": "한국프로이드",
+            "children": []
+          },
+          {
+            "name": "한국헤밍웨이",
+            "children": []
+          },
+          {
+            "name": "한샘(전집)",
+            "children": []
+          },
+          {
+            "name": "한솔수북(전집)",
+            "children": []
+          },
+          {
+            "name": "현대출판사",
+            "children": []
+          },
+          {
+            "name": "현대출판사",
+            "children": []
+          },
+          {
+            "name": "홍진P&M",
+            "children": []
+          },
+          {
+            "name": "효리원(전집)",
+            "children": []
+          },
+          {
+            "name": "훈민출판사",
+            "children": []
+          },
+          {
+            "name": "SEM",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "_토이북/교구",
+        "children": []
+      },
+      {
+        "name": "문학/논술/고전",
+        "children": []
+      },
+      {
+        "name": "영어/학습",
+        "children": []
+      },
+      {
+        "name": "인물/역사/사회",
+        "children": []
+      },
+      {
+        "name": "자연/과학/수학",
+        "children": []
+      },
+      {
+        "name": "전래/명작동화",
+        "children": []
+      },
+      {
+        "name": "창작동화",
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "종교/역학",
+    "categoryId": 1237,
+    "children": []
+  },
+  {
+    "name": "좋은부모",
+    "categoryId": 2030,
+    "children": []
+  },
+  {
+    "name": "중학교참고서",
+    "categoryId": 76000,
+    "children": [
+      {
+        "name": "논술/글쓰기(중등)",
+        "children": [
+          {
+            "name": "논술정기간행물(중등)",
+            "children": []
+          },
+          {
+            "name": "중학논술/글쓰기",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "예비고등",
+        "children": []
+      },
+      {
+        "name": "중1-문제집",
+        "children": [
+          {
+            "name": "과학(중등1)",
+            "children": []
+          },
+          {
+            "name": "국어(중등1)",
+            "children": []
+          },
+          {
+            "name": "기술.가정(중등1)",
+            "children": []
+          },
+          {
+            "name": "기타(중등1)",
+            "children": []
+          },
+          {
+            "name": "도덕(중등1)",
+            "children": []
+          },
+          {
+            "name": "사회.역사(중등1)",
+            "children": []
+          },
+          {
+            "name": "수학(중등1)",
+            "children": []
+          },
+          {
+            "name": "영어(중등1)",
+            "children": []
+          },
+          {
+            "name": "중간.기말고사(중등1)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "중1-자습서",
+        "children": [
+          {
+            "name": "과학(중등1)",
+            "children": []
+          },
+          {
+            "name": "국어(중등1)",
+            "children": []
+          },
+          {
+            "name": "기술.가정(중등1)",
+            "children": []
+          },
+          {
+            "name": "기타(중등1)",
+            "children": []
+          },
+          {
+            "name": "도덕(중등1)",
+            "children": []
+          },
+          {
+            "name": "사회.역사(중등1)",
+            "children": []
+          },
+          {
+            "name": "수학(중등1)",
+            "children": []
+          },
+          {
+            "name": "영어(중등1)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "중2-문제집",
+        "children": [
+          {
+            "name": "과학(중등2)",
+            "children": []
+          },
+          {
+            "name": "국어(중등2)",
+            "children": []
+          },
+          {
+            "name": "기술.가정(중등2)",
+            "children": []
+          },
+          {
+            "name": "기타(중등2)",
+            "children": []
+          },
+          {
+            "name": "도덕(중등2)",
+            "children": []
+          },
+          {
+            "name": "사회.역사(중등2)",
+            "children": []
+          },
+          {
+            "name": "수학(중등2)",
+            "children": []
+          },
+          {
+            "name": "영어(중등2)",
+            "children": []
+          },
+          {
+            "name": "중간.기말고사(중등2)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "중2-자습서",
+        "children": [
+          {
+            "name": "과학(중등2)",
+            "children": []
+          },
+          {
+            "name": "국어(중등2)",
+            "children": []
+          },
+          {
+            "name": "기술.가정(중등2)",
+            "children": []
+          },
+          {
+            "name": "기타(중등2)",
+            "children": []
+          },
+          {
+            "name": "도덕(중등2)",
+            "children": []
+          },
+          {
+            "name": "사회.역사(중등2)",
+            "children": []
+          },
+          {
+            "name": "수학(중등2)",
+            "children": []
+          },
+          {
+            "name": "영어(중등2)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "중3-문제집",
+        "children": [
+          {
+            "name": "과학(중등3)",
+            "children": []
+          },
+          {
+            "name": "국어(중등3)",
+            "children": []
+          },
+          {
+            "name": "기술.가정(중등3)",
+            "children": []
+          },
+          {
+            "name": "기타(중등3)",
+            "children": []
+          },
+          {
+            "name": "도덕(중등3)",
+            "children": []
+          },
+          {
+            "name": "사회.역사(중등3)",
+            "children": []
+          },
+          {
+            "name": "수학(중등3)",
+            "children": []
+          },
+          {
+            "name": "영어(중등3)",
+            "children": []
+          },
+          {
+            "name": "중간.기말고사(중등3)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "중3-자습서",
+        "children": [
+          {
+            "name": "과학(중등3)",
+            "children": []
+          },
+          {
+            "name": "국어(중등3)",
+            "children": []
+          },
+          {
+            "name": "기술.가정(중등3)",
+            "children": []
+          },
+          {
+            "name": "기타(중등3)",
+            "children": []
+          },
+          {
+            "name": "도덕(중등3)",
+            "children": []
+          },
+          {
+            "name": "사회.역사(중등3)",
+            "children": []
+          },
+          {
+            "name": "수학(중등3)",
+            "children": []
+          },
+          {
+            "name": "영어(중등3)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "중학경시대회",
+        "children": []
+      },
+      {
+        "name": "중학국어독해",
+        "children": []
+      },
+      {
+        "name": "중학연산/도형",
+        "children": []
+      },
+      {
+        "name": "중학영어전문교재",
+        "children": [
+          {
+            "name": "독해/작문",
+            "children": []
+          },
+          {
+            "name": "말하기/듣기",
+            "children": []
+          },
+          {
+            "name": "문법",
+            "children": []
+          },
+          {
+            "name": "어휘(단어/숙어)",
+            "children": []
+          },
+          {
+            "name": "NEAT(국가영어능력평가)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "특목고대비",
+        "children": []
+      },
+      {
+        "name": "학습/기타",
+        "children": []
+      },
+      {
+        "name": "EBS 중등",
+        "children": [
+          {
+            "name": "_중1",
+            "children": []
+          },
+          {
+            "name": "_중2",
+            "children": []
+          },
+          {
+            "name": "_중3",
+            "children": []
+          },
+          {
+            "name": "30일수학",
+            "children": []
+          },
+          {
+            "name": "고등 예비과정",
+            "children": []
+          },
+          {
+            "name": "내신 대비 기출문제집",
+            "children": []
+          },
+          {
+            "name": "뉴런",
+            "children": []
+          },
+          {
+            "name": "뉴런 고난도",
+            "children": []
+          },
+          {
+            "name": "뉴런 연산",
+            "children": []
+          },
+          {
+            "name": "문해력이다(중등)",
+            "children": []
+          },
+          {
+            "name": "비욘드 과학",
+            "children": []
+          },
+          {
+            "name": "사뿐 사회/역사",
+            "children": []
+          },
+          {
+            "name": "수학 마스터",
+            "children": []
+          },
+          {
+            "name": "수학의 답",
+            "children": []
+          },
+          {
+            "name": "영어듣기능력평가",
+            "children": []
+          },
+          {
+            "name": "중학 수능특강",
+            "children": []
+          },
+          {
+            "name": "중학 신입생 예비과정",
+            "children": []
+          },
+          {
+            "name": "필독 중학 국어",
+            "children": []
+          },
+          {
+            "name": "한 장 수학",
+            "children": []
+          },
+          {
+            "name": "EBSi강의교재(중등)",
+            "children": []
+          },
+          {
+            "name": "My Coach",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "청소년",
+    "categoryId": 1137,
+    "children": []
+  },
+  {
+    "name": "초등학교참고서",
+    "categoryId": 50246,
+    "children": [
+      {
+        "name": "1학년",
+        "children": [
+          {
+            "name": "국어(초등1)",
+            "children": []
+          },
+          {
+            "name": "기타(초등1)",
+            "children": []
+          },
+          {
+            "name": "수학(초등1)",
+            "children": []
+          },
+          {
+            "name": "영어(초등1)",
+            "children": []
+          },
+          {
+            "name": "중간/기말/총정리(초등1)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "2학년",
+        "children": [
+          {
+            "name": "국어(초등2)",
+            "children": []
+          },
+          {
+            "name": "기타(초등2)",
+            "children": []
+          },
+          {
+            "name": "수학(초등2)",
+            "children": []
+          },
+          {
+            "name": "영어(초등2)",
+            "children": []
+          },
+          {
+            "name": "중간/기말/총정리(초등2)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "3학년",
+        "children": [
+          {
+            "name": "과학(초등3)",
+            "children": []
+          },
+          {
+            "name": "국어(초등3)",
+            "children": []
+          },
+          {
+            "name": "기타(초등3)",
+            "children": []
+          },
+          {
+            "name": "사회(초등3)",
+            "children": []
+          },
+          {
+            "name": "수학(초등3)",
+            "children": []
+          },
+          {
+            "name": "영어(초등3)",
+            "children": []
+          },
+          {
+            "name": "중간/기말/총정리(초등3)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "4학년",
+        "children": [
+          {
+            "name": "과학(초등4)",
+            "children": []
+          },
+          {
+            "name": "국어(초등4)",
+            "children": []
+          },
+          {
+            "name": "기타(초등4)",
+            "children": []
+          },
+          {
+            "name": "사회(초등4)",
+            "children": []
+          },
+          {
+            "name": "수학(초등4)",
+            "children": []
+          },
+          {
+            "name": "영어(초등4)",
+            "children": []
+          },
+          {
+            "name": "중간/기말/총정리(초등4)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "5학년",
+        "children": [
+          {
+            "name": "과학(초등5)",
+            "children": []
+          },
+          {
+            "name": "국어(초등5)",
+            "children": []
+          },
+          {
+            "name": "기타(초등5)",
+            "children": []
+          },
+          {
+            "name": "사회(초등5)",
+            "children": []
+          },
+          {
+            "name": "수학(초등5)",
+            "children": []
+          },
+          {
+            "name": "영어(초등5)",
+            "children": []
+          },
+          {
+            "name": "중간/기말/총정리(초등5)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "6학년",
+        "children": [
+          {
+            "name": "과학(초등6)",
+            "children": []
+          },
+          {
+            "name": "국어(초등6)",
+            "children": []
+          },
+          {
+            "name": "기타(초등6)",
+            "children": []
+          },
+          {
+            "name": "사회(초등6)",
+            "children": []
+          },
+          {
+            "name": "수학(초등6)",
+            "children": []
+          },
+          {
+            "name": "영어(초등6)",
+            "children": []
+          },
+          {
+            "name": "중간/기말/총정리(초등6)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "경시/올림피아드",
+        "children": [
+          {
+            "name": "과학",
+            "children": []
+          },
+          {
+            "name": "기타",
+            "children": []
+          },
+          {
+            "name": "수학",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "국어독해/어휘/논술",
+        "children": [
+          {
+            "name": "국어독해(초등)",
+            "children": []
+          },
+          {
+            "name": "논술정기간행물(초등)",
+            "children": []
+          },
+          {
+            "name": "어휘/쓰기",
+            "children": []
+          },
+          {
+            "name": "초등논술",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "단계별 연산/계산",
+        "children": []
+      },
+      {
+        "name": "미취학 학습",
+        "children": [
+          {
+            "name": "국어/한글",
+            "children": []
+          },
+          {
+            "name": "기타",
+            "children": []
+          },
+          {
+            "name": "수학",
+            "children": []
+          },
+          {
+            "name": "영어",
+            "children": []
+          },
+          {
+            "name": "예비초등",
+            "children": []
+          },
+          {
+            "name": "한자",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "서술형.논술형",
+        "children": [
+          {
+            "name": "과학",
+            "children": []
+          },
+          {
+            "name": "국어/논술",
+            "children": []
+          },
+          {
+            "name": "기타",
+            "children": []
+          },
+          {
+            "name": "사회",
+            "children": []
+          },
+          {
+            "name": "수학",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "영재교육원대비",
+        "children": [
+          {
+            "name": "과학",
+            "children": []
+          },
+          {
+            "name": "기타",
+            "children": []
+          },
+          {
+            "name": "수학",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "예비중학",
+        "children": [
+          {
+            "name": "국제중",
+            "children": []
+          },
+          {
+            "name": "반편성",
+            "children": []
+          },
+          {
+            "name": "일반",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "전과/자습서",
+        "children": [
+          {
+            "name": "1학년",
+            "children": []
+          },
+          {
+            "name": "2학년",
+            "children": []
+          },
+          {
+            "name": "3학년",
+            "children": []
+          },
+          {
+            "name": "4학년",
+            "children": []
+          },
+          {
+            "name": "5학년",
+            "children": []
+          },
+          {
+            "name": "6학년",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "초등영어전문교재",
+        "children": [
+          {
+            "name": "단어",
+            "children": []
+          },
+          {
+            "name": "독해",
+            "children": []
+          },
+          {
+            "name": "말하기/듣기",
+            "children": []
+          },
+          {
+            "name": "문법",
+            "children": []
+          },
+          {
+            "name": "파닉스",
+            "children": []
+          },
+          {
+            "name": "회화",
+            "children": []
+          },
+          {
+            "name": "NEAT(국가영어능력평가)",
+            "children": []
+          },
+          {
+            "name": "PELT(국가공인실용영어)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "초등한국사",
+        "children": []
+      },
+      {
+        "name": "초등한자/중국어",
+        "children": [
+          {
+            "name": "급수한자/쓰기",
+            "children": []
+          },
+          {
+            "name": "중국어",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "학습교구",
+        "children": []
+      },
+      {
+        "name": "학습월간지(초등)",
+        "children": []
+      },
+      {
+        "name": "EBS 초등",
+        "children": [
+          {
+            "name": "_1학년",
+            "children": []
+          },
+          {
+            "name": "_2학년",
+            "children": []
+          },
+          {
+            "name": "_3학년",
+            "children": []
+          },
+          {
+            "name": "_4학년",
+            "children": []
+          },
+          {
+            "name": "_5학년",
+            "children": []
+          },
+          {
+            "name": "_6학년",
+            "children": []
+          },
+          {
+            "name": "4주 완성 독해력",
+            "children": []
+          },
+          {
+            "name": "강의노트",
+            "children": []
+          },
+          {
+            "name": "기초 영문법/독해",
+            "children": []
+          },
+          {
+            "name": "기초학력 진단평가",
+            "children": []
+          },
+          {
+            "name": "만점 받는 능력",
+            "children": []
+          },
+          {
+            "name": "만점왕 기본서",
+            "children": []
+          },
+          {
+            "name": "만점왕 단원평가",
+            "children": []
+          },
+          {
+            "name": "만점왕 수학 고난도",
+            "children": []
+          },
+          {
+            "name": "만점왕 수학 플러스",
+            "children": []
+          },
+          {
+            "name": "만점왕 연산",
+            "children": []
+          },
+          {
+            "name": "만점왕 통합본",
+            "children": []
+          },
+          {
+            "name": "문해력 등급 평가",
+            "children": []
+          },
+          {
+            "name": "문해력이다(초등)",
+            "children": []
+          },
+          {
+            "name": "방학생활",
+            "children": [
+              {
+                "name": "겨울방학",
+                "children": []
+              },
+              {
+                "name": "여름방학",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "쉽게 배우는 AI",
+            "children": []
+          },
+          {
+            "name": "스토리 한국사",
+            "children": []
+          },
+          {
+            "name": "어휘가 독해다",
+            "children": []
+          },
+          {
+            "name": "영어듣기평가 완벽대비",
+            "children": []
+          },
+          {
+            "name": "참 쉬운 급수 한자",
+            "children": []
+          },
+          {
+            "name": "초등 수해력",
+            "children": []
+          },
+          {
+            "name": "EBS ELT",
+            "children": []
+          },
+          {
+            "name": "EBS랑 홈스쿨",
+            "children": []
+          },
+          {
+            "name": "Step by Step",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "컴퓨터/모바일",
+    "categoryId": 351,
+    "children": []
+  },
+  {
+    "name": "고서/희귀본",
+    "categoryId": 116922,
+    "children": []
+  }
+]

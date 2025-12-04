@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "알라딘 분류 검색",
+  "version": "1.0",
+  "permissions": ["storage"],
+  "host_permissions": [
+    "https://www.aladin.co.kr/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://www.aladin.co.kr/scm/wpopup_category.aspx*"],
+      "js": ["content.js"],
+      "css": ["injected.css"],
+      "run_at": "document_idle"
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["category_tree_full.json"],
+      "matches": ["https://www.aladin.co.kr/*"]
+    }
+  ]
+}

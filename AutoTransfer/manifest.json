@@ -1,0 +1,38 @@
+{
+  "manifest_version": 3,
+  "name": "Yes24 자동 등록",
+  "version": "0.1",
+  "permissions": [
+    "contextMenus",
+    "tabs",
+    "scripting",
+    "storage"
+  ],
+  "host_permissions": [
+    "https://www.aladin.co.kr/*",
+    "https://uscm.yes24.com/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://www.aladin.co.kr/scm/wrecord.aspx*"],
+      "js": ["aladin.js"]
+    },
+    {
+      "matches": ["https://uscm.yes24.com/Product/IndividualRegistrationList*"],
+      "js": ["yes24_list.js"]
+    },
+    {
+      "matches": [
+        "https://uscm.yes24.com/Product/IndividualRegistrationInsert/*"
+      ],
+      "js": ["yes24_insert.js"]
+    },
+    {
+      "matches": ["https://uscm.yes24.com/Product/NewProductInsert*"],
+      "js": ["yes24_new.js"]
+    }
+  ]
+}
